@@ -1,2 +1,2 @@
 const pair = "pairExtraordinaire";
-  console.log('I am a pair extraordinaire');
+  console.log('I am a pair extraordinaire!');
